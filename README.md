@@ -37,8 +37,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd stock-market-app
+git clone https://github.com/Mousse789/SMA-Stock-Market-Analyzer.git
+cd SMA-Stock-Market-Analyzer
 ```
 
 2. Install backend dependencies:
