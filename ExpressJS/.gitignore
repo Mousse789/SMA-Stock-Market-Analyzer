@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# SSL files
+ssl/
+certificate.csr
+
+# Logs
+*.log
+combined.log
+errors.log
+exceptions.log
+rejections.log
